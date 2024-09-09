@@ -1,4 +1,4 @@
-# Phyton | Desafios de códigos | Segundo desafio (Identificando os Produtos Mais Vendidos)
+# Phyton | Desafios de códigos | Terceiro desafio (Explorando Técnicas de POO com Python)
 
 ## ✔Objetivo geral
 Você está desenvolvendo um sistema para gerenciar dados de vendas que serão posteriormente importados para o Power BI. Você tem a estrutura de duas classes, Venda e Relatorio, já definidas. Sua tarefa é implementar partes específicas do código dentro dessas classes.
