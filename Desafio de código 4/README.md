@@ -1,4 +1,4 @@
-# Phyton | Desafios de códigos | Terceiro desafio (Explorando Técnicas de POO com Python 2)
+# Phyton | Desafios de códigos | Quarto desafio (Explorando Técnicas de POO com Python 2)
 
 ## ✔Objetivo geral
 Você está desenvolvendo um sistema para organizar vendas por categorias antes de gerar um relatório. O objetivo é criar uma classe Categoria que gerencie as vendas associadas a uma determinada categoria e calcule o total de vendas dessa categoria.
