@@ -8,6 +8,7 @@ Repositório para armazenamento dos desafios dos projetos enquanto estudo ![Pyth
 - [GitHub](https://docs.github.com)
 - [Phyton](https://docs.python.org/)
 - [DIO](https://www.dio.me/)
+- [Power BI](https://www.microsoft.com/pt-br/power-platform/products/power-bi)
 
 ## 😎 Projetos
 | Nome | Link |
@@ -19,6 +20,7 @@ Repositório para armazenamento dos desafios dos projetos enquanto estudo ![Pyth
 |Desafio de código 2|[Identificando os Produtos Mais Vendidos](https://github.com/CarlosJot4/Desafios-de-projetos/blob/main/Desafio%20de%20c%C3%B3digo%202/README.md)|
 |Desafio de código 3|[Explorando Técnicas de POO com Python](https://github.com/CarlosJot4/Desafios-de-projetos/blob/main/Desafio%20de%20c%C3%B3digo%203/README.md)
 |Desafio de código 4|[Explorando Técnicas de POO com Python 2](https://github.com/CarlosJot4/Desafios-de-projetos/tree/main/Desafio%20de%20c%C3%B3digo%204)
+|Desafio de Power BI 1|[Analisando dados de um Dashboard de Vendas no Power BI](https://github.com/CarlosJot4/Desafios-de-projetos/tree/main/Desafio%20de%20Power%20BI%201)|   
 
 ## 😜 Outras coisas
 
