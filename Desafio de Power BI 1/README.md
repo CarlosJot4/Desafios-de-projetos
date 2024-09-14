@@ -3,11 +3,11 @@
 ## ✔Objetivo geral
 Esse desafio visa treinar a habilidade de criação de visuais. Assim, você poderá criar familiaridade com esses recursos
 
-## ❗Detalhamento
-Atualizar a implementação do sistema bancário, para armazenar os dados de clientes e contas bancárias em objetos ao invés de dicionários. O código deve seguir o modelo de classes UML a seguir:
-[Power BI]()
-[PDF]()
-[Base de dados]()
+## ❗Documentos gerados
+Segue abaixo os resultados:
+ - [Power BI](https://github.com/CarlosJot4/Desafios-de-projetos/blob/main/Desafio%20de%20Power%20BI%201/powerBI_desafio_01.pbix)
+ - [PDF](https://github.com/CarlosJot4/Desafios-de-projetos/blob/main/Desafio%20de%20Power%20BI%201/powerBI_desafio_01.pdf)
+ - [Base de dados](https://github.com/CarlosJot4/Desafios-de-projetos/blob/main/Desafio%20de%20Power%20BI%201/sample%20vendas%20dataset.pbit)
 
 ## 💥Desafio
 Além de duas páginas iniciais contendo informações basicas sobre as vendas:
