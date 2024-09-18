@@ -1,6 +1,6 @@
 # Phyton | Desafios de projetos
 
-Repositório para armazenamento dos desafios dos projetos enquanto estudo ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+Repositório para armazenamento dos desafios dos projetos enquanto estudo ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) e ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
 
 ## 🐱‍💻Documentação extra
