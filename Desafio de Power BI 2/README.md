@@ -5,10 +5,10 @@ Esse desafio visa treinar a habilidade de criação de visuais. Assim, você pod
 
 ## ❗Documentos gerados
 Segue abaixo os resultados:
- - [Power BI - arquivo]()
+ - [Power BI - arquivo](https://github.com/CarlosJot4/Desafios-de-projetos/blob/main/Desafio%20de%20Power%20BI%202/powerBI_desafio_02.pbix)
  - [Power BI - interativo](https://app.powerbi.com/view?r=eyJrIjoiN2Y1ODRkNTctMzMxYi00ZDE2LTk4ZWUtMzYzNmUyNjNiZTY0IiwidCI6ImU5Njk4OTg1LTE4ODgtNDMyMC1hMzNlLTYzNTcwZjJmODc4MCJ9)
- - [PDF]()
- - [Base de dados]()
+ - [PDF](https://github.com/CarlosJot4/Desafios-de-projetos/blob/main/Desafio%20de%20Power%20BI%202/powerBI_desafio_02.pdf)
+ - [Base de dados](https://github.com/CarlosJot4/Desafios-de-projetos/blob/main/Desafio%20de%20Power%20BI%202/Financial%20Sample.xlsx)
 
 ## 💥Desafio
 Você irá criar um relatório mais elaborado com base na sample financials do Power BI
