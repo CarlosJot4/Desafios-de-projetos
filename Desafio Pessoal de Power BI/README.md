@@ -5,10 +5,10 @@ Esse desafio visa treinar a habilidade de criação de visuais. Assim, você pod
 
 ## ❗Documentos gerados
 Segue abaixo os resultados:
- - [Power BI - arquivo]()
+ - [Power BI - arquivo](https://github.com/CarlosJot4/Desafios-de-projetos/blob/main/Desafio%20Pessoal%20de%20Power%20BI/projeto_pessoal_MTG.pbix)
  - [Power BI - interativo](https://app.powerbi.com/view?r=eyJrIjoiYjE0MjgyMzctOTU0Ny00ZjM0LTljZWUtYmY1NWM5NDVmMWRhIiwidCI6ImU5Njk4OTg1LTE4ODgtNDMyMC1hMzNlLTYzNTcwZjJmODc4MCJ9)
- - [Power BI - pdf]()
- - [Base de dados]()
+ - [Power BI - pdf](https://github.com/CarlosJot4/Desafios-de-projetos/blob/main/Desafio%20Pessoal%20de%20Power%20BI/projeto_pessoal_MTG.pdf)
+ - [Base de dados](https://github.com/CarlosJot4/Desafios-de-projetos/blob/main/Desafio%20Pessoal%20de%20Power%20BI/All_Cards_2024_MTG.csv)
 
 ## 💥Desafio
 Você irá criar um relatório mais elaborado com base na sample das minhas cartas de Magic The Gathering (MTG)
