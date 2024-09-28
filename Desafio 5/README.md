@@ -17,5 +17,6 @@ Por fim, mas não menos importante, adicione uma tabela dimensão de datas. Para
 
 Ex: data de oferta das disciplinas, data de oferta dos cursos, entre outros. O formato, ou melhor, a granularidade, não está fixada. Podem ser utilizados diferentes formatos que correspondem a diferentes níveis de granularidade.
 
-[Imagem de referência]()
-[Resultado do desafio]()
+[Imagem de referência](https://github.com/CarlosJot4/Desafios-de-projetos/blob/main/Desafio%205/Imagem%20de%20Referencia.png)
+
+[Resultado do desafio](https://github.com/CarlosJot4/Desafios-de-projetos/blob/main/Desafio%205/Star%20Schema.png)
