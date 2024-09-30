@@ -23,10 +23,10 @@ Reorganizar as colunas
 ## 💥Desafio
 
  - Salve o projeto .pbix:
-  [Arquivo do PowerBI]()
+  [Arquivo do PowerBI](https://github.com/CarlosJot4/Desafios-de-projetos/blob/main/Desafio%206/Desafio_06.pbix)
 
  - Salve uma imagem do seu esquema em estrela:
-  [Imagem do esquema]()
+  [Imagem do esquema](https://github.com/CarlosJot4/Desafios-de-projetos/blob/main/Desafio%206/Esquema%20em%20estrela.png)
 
  - Escreva no readme o processo de construção do seu diagrama:
   Foi Criado a tabela Calendar seguindo a Dax mais abaixo. 
@@ -42,4 +42,4 @@ Reorganizar as colunas
    - Week Number = WEEKNUM('Calendar'[Date])
    - Year = YEAR('Calendar'[Date])
 
- [Financial Sample do Power BI]()
+ [Financial Sample do Power BI](https://github.com/CarlosJot4/Desafios-de-projetos/blob/main/Desafio%206/Financial%20Sample.xlsx)
