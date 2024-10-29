@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300px" src=".github/assets/logo_2.png">
+    <img width="300px" src="github/assets/logo_2.png">
 </p>
 
 <p align="center">
@@ -47,21 +47,21 @@ A primeira regra para personalizar o treino é determinar o biotipo corporal do 
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/ectomorph.jpg" width="50%" height="50%">
+      <img src="github/assets/ectomorph.jpg" width="50%" height="50%">
     </td>
     <td><strong>Ectomorfo</strong></td>
     <td>Corpo mais magro, difícil ganhar peso e massa muscular.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/mesomorph.jpg" width="50%" height="50%">
+      <img src="github/assets/mesomorph.jpg" width="50%" height="50%">
     </td>
     <td><strong>Mesomorfo</strong></td>
     <td>Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
-      <img src=".github/assets/endmorph.jpg" width="50%" height="50%">
+      <img src="github/assets/endmorph.jpg" width="50%" height="50%">
     </td>
     <td><strong>Endomorfo</strong></td>
     <td>Corpo com tendência a acumular gordura, maior dificuldade em perder peso.</td>
@@ -78,9 +78,9 @@ A segunda regra é determinar quantos dias por semana o usuário tem disponível
 
 | **Imagem**                                                     | **Dias por Semana** | **Tipo de Treino Sugerido** |
 | -------------------------------------------------------------- | ------------------- | --------------------------- |
-| <img src=".github/assets/calendar.png" width="50" height="50"> | 1 dia               | Treino Full Body            |
-| <img src=".github/assets/calendar.png" width="50" height="50"> | 3 dias              | Treino ABC                  |
-| <img src=".github/assets/calendar.png" width="50" height="50"> | 5 dias              | Treino ABCDE                |
+| <img src="github/assets/calendar.png" width="50" height="50"> | 1 dia               | Treino Full Body            |
+| <img src="github/assets/calendar.png" width="50" height="50"> | 3 dias              | Treino ABC                  |
+| <img src="github/assets/calendar.png" width="50" height="50"> | 5 dias              | Treino ABCDE                |
 
 - **Full Body**: Treino que trabalha o corpo todo em uma única sessão.
 - **ABC**: Divisão do treino em três dias, cada um focado em grupos musculares diferentes.
@@ -94,11 +94,11 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 
 | **Imagem**                                                       | **Tipo de Treino** | **Descrição**                                                                                                 |
 | ---------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- |
-| <img src=".github/assets/dumbells.png" width="50%" height="50%"> | **Funcional**      | Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.                                |
-| <img src=".github/assets/4760665.png" width="50%" height="50%">  | **Maquinário**     | Exercícios feitos em máquinas, com foco em isolar grupos musculares.                                          |
-| <img src=".github/assets/barr.png" width="50%" height="50%">     | **Peso Livre**     | Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente. |
-| <img src=".github/assets/cardio.png" width="50%" height="50%">   | **Cardio**         | Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.                     |
-| <img src=".github/assets/hiit.png" width="50%" height="50%">     | **HIIT**           | Treinos intervalados de alta intensidade, ótimos para queima de gordura.                                      |
+| <img src="github/assets/dumbells.png" width="50%" height="50%"> | **Funcional**      | Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.                                |
+| <img src="github/assets/4760665.png" width="50%" height="50%">  | **Maquinário**     | Exercícios feitos em máquinas, com foco em isolar grupos musculares.                                          |
+| <img src="github/assets/barr.png" width="50%" height="50%">     | **Peso Livre**     | Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente. |
+| <img src="github/assets/cardio.png" width="50%" height="50%">   | **Cardio**         | Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.                     |
+| <img src="github/assets/hiit.png" width="50%" height="50%">     | **HIIT**           | Treinos intervalados de alta intensidade, ótimos para queima de gordura.                                      |
 
 ---
 
@@ -121,4 +121,4 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
- - [Promp resultado]()
+ - [Promp resultado](https://github.com/CarlosJot4/Desafios-de-projetos/blob/main/Desafio%20de%20Prompt%20-%20Personal%20IA/prompt-v1.md)
