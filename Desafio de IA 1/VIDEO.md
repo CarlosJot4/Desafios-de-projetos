@@ -41,7 +41,7 @@ Avatar: "As IAs Generativas estão mudando o mundo ao nosso redor. Elas ajudam a
 aprenderem coisas novas e a se divertirem ainda mais. E o melhor de tudo? Estamos só começando a explorar todo o potencial 
 delas. Obrigado por assistirem, e até a próxima!"
 
-[VIDEO RESULTADO]()
+[VIDEO RESULTADO](https://www.youtube.com/shorts/u07IjhKIK34)
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma 
