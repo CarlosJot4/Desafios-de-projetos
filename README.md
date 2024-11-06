@@ -30,7 +30,8 @@ Repositório para armazenamento dos desafios dos projetos enquanto estudo ![Pyth
 |Desafio de código 8|[Dominando Filtragem e Extração de Dados com Python 2](https://github.com/CarlosJot4/Desafios-de-projetos/tree/main/Desafio%20de%20c%C3%B3digo%208)|
 |Desafio de Power BI 1|[Analisando dados de um Dashboard de Vendas no Power BI](https://github.com/CarlosJot4/Desafios-de-projetos/tree/main/Desafio%20de%20Power%20BI%201)|   
 |Desafio de Power BI 2|[Criando Um Relatório Gerencial de Vendas com Power BI](https://github.com/CarlosJot4/Desafios-de-projetos/tree/main/Desafio%20de%20Power%20BI%202)|
-|Desafio de Prompt|[Personal Trainer IA](https://github.com/CarlosJot4/Desafios-de-projetos/tree/main/Desafio%20de%20Prompt%20-%20Personal%20IA)
+|Desafio de Prompt|[Personal Trainer IA](https://github.com/CarlosJot4/Desafios-de-projetos/tree/main/Desafio%20de%20Prompt%20-%20Personal%20IA)|
+|Desadio de IA|[Vídeo: Um Minuto no Futuro das IAs Generativas](https://github.com/CarlosJot4/Desafios-de-projetos/tree/main/Desafio%20de%20IA%201)|
 
 ## 😜 Outras coisas
 
