@@ -32,6 +32,7 @@ Repositório para armazenamento dos desafios dos projetos enquanto estudo ![Pyth
 |Desafio de Power BI 2|[Criando Um Relatório Gerencial de Vendas com Power BI](https://github.com/CarlosJot4/Desafios-de-projetos/tree/main/Desafio%20de%20Power%20BI%202)|
 |Desafio de Prompt|[Personal Trainer IA](https://github.com/CarlosJot4/Desafios-de-projetos/tree/main/Desafio%20de%20Prompt%20-%20Personal%20IA)|
 |Desadio de IA|[Projetos de IA](https://github.com/CarlosJot4/Estudo-de-IA)|
+|Projeto Base|[Cloud com IA~(https://github.com/CarlosJot4/Desafios-de-projetos/tree/main/Projeto%20Base)
 
 ## 😜 Outras coisas
 
