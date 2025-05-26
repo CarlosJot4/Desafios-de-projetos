@@ -5,4 +5,4 @@
 
 - Make some code so I can test it inserting a credit card number
 
-- Make me a README for github to explain evething is this project
+- Make me a README for github to explain evething in this project
