@@ -1,8 +1,8 @@
-### Language Studio – Anotações
+# Language Studio – Anotações
 
 ## Análise de Sentimentos
 
-# Experimento:
+### Experimento:
 
 Analisado 5 textos com polaridades diferentes:
 
@@ -12,7 +12,7 @@ Analisado 5 textos com polaridades diferentes:
     - Negativo direto
     - Negativo subjetivo
 
-# Observações:
+### Observações:
 
  - Funciona bem com textos simples e diretos.
  - Apresenta dificuldades em identificar sarcasmo e ironia.
@@ -20,18 +20,18 @@ Analisado 5 textos com polaridades diferentes:
 
 ## Extração de Entidades (NER)
 
-# Experimento:
+### Experimento:
 
 Aplicado a uma notícia jornalística e a um relatório técnico.
 
-# Observações:
+### Observações:
 
  - Boa identificação de entidades como nomes próprios, organizações, locais e datas.
  - Termos técnicos foram ignorados em alguns casos.
 
 ## Classificação de Texto
 
-# Experimento:
+### Experimento:
 
 Criado modelo para classificar textos como:
 
@@ -39,18 +39,18 @@ Criado modelo para classificar textos como:
     - Publicitário
     - Opinativo
 
-# Observações:
+### Observações:
 
  - Após o treinamento supervisionado com exemplos curtos, o modelo classificou corretamente 80% dos casos de teste.
  - Mais dados melhorariam a precisão.
 
 ## Sumarização de Texto
 
-# Experimento:
+### Experimento:
 
 Utilizado um artigo de blog de 800 palavras.
 
-# Observações:
+### Observações:
 
  - O resumo foi coeso e relevante.
  - Reduziu o texto em cerca de 70% mantendo o sentido principal.
