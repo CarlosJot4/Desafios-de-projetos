@@ -1,4 +1,4 @@
-### Insights Gerais
+# Insights Gerais
 
 ## Lições Aprendidas
 
@@ -15,7 +15,7 @@
  - Acessibilidade: leitores de tela personalizados e síntese de voz com entonação natural.
  - Mídia e Jornalismo: sumarização automática de notícias e entrevistas.
 
-# Recomendações Futuras
+## Recomendações Futuras
 
  - Integrar os serviços com aplicações reais usando APIs REST ou SDKs do Azure.
  - Explorar a criação de pipelines de processamento com Logic Apps ou Power Automate.
