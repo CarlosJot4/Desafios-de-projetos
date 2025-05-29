@@ -4,15 +4,15 @@ Este repositório contém anotações, exemplos e insights obtidos durante a exp
 
 📁 Estrutura
 
-Language Studio no Azure AI/
-├── LanguageStudio/
-│   ├── exemplos/
-│   └── anotacoes.md
-├── SpeechStudio/            # Testes com Speech Studio
-│   ├── exemplos/
-│   └── anotacoes.md        # Anotações técnicas e observações
-├── insights.md
-└── README.md               # Este arquivo
+- Language Studio no Azure AI/
+    - LanguageStudio/
+        - exemplos/
+        - anotacoes.md
+    - SpeechStudio/            
+        - exemplos/
+        - anotacoes.md
+    - insights.md
+    - README.md               
 
 📌 Objetivo
 
