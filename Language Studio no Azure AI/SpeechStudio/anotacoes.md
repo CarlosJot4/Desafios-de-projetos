@@ -1,8 +1,8 @@
-### Speech Studio – Anotações
+# Speech Studio – Anotações
 
 ## Speech-to-Text
 
-# Experimento:
+### Experimento:
 
  - Testado com 2 arquivos de áudio:
 
@@ -10,7 +10,7 @@
     2. Voz com ruído de fundo (trânsito)
 
 
-# Observações:
+### Observações:
 
  - Alta precisão com voz clara.
  - Queda leve na qualidade com ruído, mas ainda compreensível.
@@ -18,7 +18,7 @@
 
 ## Text-to-Speech
 
-# Experimento:
+### Experimento:
 
 Geração de fala com texto curto: “Olá, tudo bem? Este é um teste.”
 
@@ -27,18 +27,18 @@ Geração de fala com texto curto: “Olá, tudo bem? Este é um teste.”
     1. pt-BR Francisca (neural)
     2. pt-BR Antônio (neural)
 
-# Observações:
+### Observações:
 
  - A voz neural tem entonação natural e fluida.
  - Pode-se usar comandos para alterar o tom, velocidade e pausas.
 
 ## Custom Speech
 
-# Experimento:
+### Experimento:
 
 Criado modelo personalizado com termos técnicos da área da saúde.
 
-# Observações:
+### Observações:
 
  - Após treinamento, o reconhecimento de vocabulário técnico melhorou significativamente.
  - Processo de treinamento é simples, mas requer amostra bem definida de áudio e transcrição.
