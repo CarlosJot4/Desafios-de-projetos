@@ -1,0 +1,43 @@
+# Texto de entrada (post de blog)
+“Fiquei extremamente satisfeito com o atendimento da clínica. Os profissionais 
+foram atenciosos e resolveram meu problema com rapidez. Recomendo a todos!”
+
+# Resultado da Análise de Sentimento com Azure Language Studio
+{
+  "sentiment": "positive",
+  "confidenceScores": {
+    "positive": 0.98,
+    "neutral": 0.01,
+    "negative": 0.01
+  },
+  "sentences": [
+    {
+      "text": "Fiquei extremamente satisfeito com o atendimento da clínica.",
+      "sentiment": "positive",
+      "confidenceScores": {
+        "positive": 0.99,
+        "neutral": 0.01,
+        "negative": 0.00
+      }
+    },
+    {
+      "text": "Os profissionais foram atenciosos e resolveram meu problema com 
+      rapidez.",
+      "sentiment": "positive",
+      "confidenceScores": {
+        "positive": 0.97,
+        "neutral": 0.02,
+        "negative": 0.01
+      }
+    },
+    {
+      "text": "Recomendo a todos!",
+      "sentiment": "positive",
+      "confidenceScores": {
+        "positive": 0.96,
+        "neutral": 0.03,
+        "negative": 0.01
+      }
+    }
+  ]
+}

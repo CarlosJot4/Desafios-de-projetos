@@ -1,0 +1,13 @@
+# Arquivo de áudio: paciente01-audio.wav
+# Contexto: consulta médica com vocabulário técnico
+# Qualidade do áudio: boa (sem ruído), com leve sotaque regional
+
+[Transcrição automatizada com Azure Speech Studio]
+
+“Boa tarde, doutora. O paciente apresentou sintomas de dispneia, febre 
+moderada e saturação abaixo de noventa e quatro por cento. Iniciamos o 
+protocolo de oxigenoterapia e solicitamos tomografia de tórax.”
+
+# Observações:
+- O reconhecimento de termos técnicos como “dispneia” e “oxigenoterapia” 
+funcionou corretamente após treinamento do Custom Speech.
