@@ -1,4 +1,4 @@
-### Análise de Sentimentos com Language Studio no Azure AI
+# Análise de Sentimentos com Language Studio no Azure AI
 
 Este repositório contém anotações, exemplos e insights obtidos durante a exploração das ferramentas Azure Speech Studio e Language Studio, com foco em aplicações de inteligência artificial em voz e linguagem natural.
 
