@@ -1,4 +1,4 @@
-# Phyton | Desafios de projetos
+# Phyton & IA | Desafios de projetos
 
 Repositório para armazenamento dos desafios dos projetos enquanto estudo ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) , ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white), Engenharia de Prompt e IA.
 
@@ -34,6 +34,7 @@ Repositório para armazenamento dos desafios dos projetos enquanto estudo ![Pyth
 |Desafio de Prompt|[Personal Trainer IA](https://github.com/CarlosJot4/Desafios-de-projetos/tree/main/Desafio%20de%20Prompt%20-%20Personal%20IA)|
 |Desadio de IA|[Projetos de IA](https://github.com/CarlosJot4/Estudo-de-IA)|
 |Projeto Base|[Cloud com IA](https://github.com/CarlosJot4/Desafios-de-projetos/tree/main/Projeto%20Base)
+|Desadio de IA 2|[Azure Cognitive Search Lab](https://github.com/CarlosJot4/Desafios-de-projetos/tree/main/Azure%20Cognitive%20Search%20Lab)|
 
 ## 😜 Outras coisas
 
