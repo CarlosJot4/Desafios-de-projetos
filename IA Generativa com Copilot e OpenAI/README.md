@@ -23,7 +23,7 @@ Utilizar ferramentas de IA generativa para:
 
 ```text
 copilot-openai-lab/
-├── README.md                  # Documentação principal do desafio
+├── README.md                 # Documentação principal do desafio
 ├── exemplos-copilot/         # Exemplos de código gerado com GitHub Copilot
 ├── exemplos-chatgpt/         # Prompts e respostas da IA generativa
 ├── exploracoes/              # Anotações e estudos sobre recursos avançados
