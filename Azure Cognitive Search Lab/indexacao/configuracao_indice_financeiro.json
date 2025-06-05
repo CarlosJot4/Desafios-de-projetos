@@ -1,0 +1,18 @@
+{
+  "name": "indice-relatorios-financeiros",
+  "fields": [
+    { "name": "id", "type": "Edm.String", "key": true, "searchable": false },
+    { "name": "titulo", "type": "Edm.String", "searchable": true },
+    { "name": "conteudo", "type": "Edm.String", "searchable": true, "analyzer": "pt.microsoft" },
+    { "name": "autor", "type": "Edm.String", "searchable": true },
+    { "name": "dataPublicacao", "type": "Edm.DateTimeOffset", "filterable": true, "sortable": true },
+    { "name": "categoria", "type": "Edm.String", "filterable": true, "facetable": true }
+  ],
+  "suggesters": [
+    {
+      "name": "suggester-financas",
+      "searchMode": "analyzingInfixMatching",
+      "sourceFields": [ "titulo", "conteudo" ]
+    }
+  ]
+}

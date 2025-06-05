@@ -1,0 +1,8 @@
+{
+  "search": "inteligência artificial",
+  "filter": "dataPublicacao ge 2022-01-01T00:00:00Z",
+  "orderby": "dataPublicacao desc",
+  "select": "titulo,autor,dataPublicacao",
+  "highlight": "conteudo",
+  "top": 3
+}

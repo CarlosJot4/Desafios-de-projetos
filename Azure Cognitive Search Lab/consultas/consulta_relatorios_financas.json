@@ -1,0 +1,8 @@
+{
+  "search": "EBITDA",
+  "filter": "categoria eq 'Finanças' and dataPublicacao ge 2024-01-01T00:00:00Z",
+  "orderby": "dataPublicacao desc",
+  "highlight": "conteudo",
+  "select": "titulo,dataPublicacao,autor",
+  "top": 5
+}
