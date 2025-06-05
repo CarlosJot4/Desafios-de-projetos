@@ -35,6 +35,7 @@ Repositório para armazenamento dos desafios dos projetos enquanto estudo ![Pyth
 |Desadio de IA|[Projetos de IA](https://github.com/CarlosJot4/Estudo-de-IA)|
 |Projeto Base|[Cloud com IA](https://github.com/CarlosJot4/Desafios-de-projetos/tree/main/Projeto%20Base)
 |Desadio de IA 2|[Azure Cognitive Search Lab](https://github.com/CarlosJot4/Desafios-de-projetos/tree/main/Azure%20Cognitive%20Search%20Lab)|
+|Desadio de IA 3|[IA Generativa com Copilot e OpenAI](https://github.com/CarlosJot4/Desafios-de-projetos/tree/main/IA%20Generativa%20com%20Copilot%20e%20OpenAI)|
 
 ## 😜 Outras coisas
 
